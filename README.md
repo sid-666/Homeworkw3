@@ -1,4 +1,4 @@
-# Homeowrk Description
+# Homework Description
 ## Problem Statement
 The task set to us was to develop a password generator through Javascript. The requirements were that the user
 will have the ability to dictate the character diversity within the password (Upper Case, numbers and symbols)
@@ -18,3 +18,4 @@ through prompts displayed after the click of the "Generate Password" button. Aft
 ### Image
 ![Website Screenshot](Screenshot.PNG)
 ### Link
+https://sid-666.github.io/Homeworkw3/
