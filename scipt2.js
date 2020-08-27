@@ -28,7 +28,7 @@ function generatePassword(){
     if(containsSymbols) charSet += symbols;// if prompt is true then symbols string will concat with charSet which is the base
 
     for(var i = 0; i < passwordLength; i++ ) {
-        var randomIndex = Math.floor(Math.random() * passwordLength)
+        var randomIndex = Math.floor(Math.random() * charSet.length)
         result += charSet[randomIndex]
     } // Loop to get random chracters from variable charSet
 
