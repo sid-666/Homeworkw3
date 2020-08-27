@@ -16,5 +16,5 @@ through prompts displayed after the click of the "Generate Password" button. Aft
 9) result is returned
 ## Outcome
 ### Image
-![Website Screenshot]()
+![Website Screenshot](Screenshot.PNG)
 ### Link
